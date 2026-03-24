@@ -14,6 +14,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
+  google_fonts: ^8.0.2
 
 dev_dependencies:
   flutter_test:
@@ -27,4 +28,4 @@ flutter:
   assets:
     - assets/taskhavensignupbg.png
     - assets/templogo.jpg
-    
+    - assets/taskhaven_whitelogoicon.png
