@@ -27,5 +27,5 @@ flutter:
 
   assets:
     - assets/taskhavensignupbg.png
-    - assets/templogo.jpg
     - assets/taskhaven_whitelogoicon.png
+    - assets/tempbg.png
