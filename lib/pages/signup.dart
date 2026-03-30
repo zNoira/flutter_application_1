@@ -14,7 +14,7 @@ class SignUpPage extends StatelessWidget {
               color: Color(0xFF0BC66E),
               image: DecorationImage(
                 image: AssetImage(
-                  'assets/tempbg.png'),
+                  'assets/tempbg2.png'),
                 fit: BoxFit.cover,
               ),
             ),
