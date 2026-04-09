@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'signup.dart';
+import 'profile.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
@@ -152,7 +153,13 @@ class LoginPage extends StatelessWidget {
                   SizedBox(
                     width: double.infinity,
                     child: OutlinedButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        // This line connects the two pages
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => const ProfilePage()),
+                        );
+                      },
                       style: OutlinedButton.styleFrom(
                         side: const BorderSide(color: Colors.white),
                         padding: const EdgeInsets.symmetric(vertical: 20),

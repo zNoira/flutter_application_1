@@ -28,5 +28,43 @@ flutter:
   assets:
     - assets/taskhavensignupbg.png
     - assets/taskhaven_whitelogoicon.png
+    - assets/taskhaven_greenlogoicon.png
     - assets/tempbg.png
     - assets/tempbg2.png
+    - assets/avatarbase.png
+    - assets/avatarcustomize/accessories/placeholderhat.png
+    - assets/avatarcustomize/accessories/basicglasses.png
+    - assets/avatarcustomize/accessories/basicshades.png
+    - assets/avatarcustomize/accessories/flower1.png
+    - assets/avatarcustomize/accessories/headphones1.png
+    - assets/avatarcustomize/accessories/headphones2.png
+    - assets/avatarcustomize/accessories/mushroomhat.png
+    - assets/avatarcustomize/accessories/trafficcone.png
+    - assets/avatarcustomize/accessories/witchhat.png
+    - assets/avatarcustomize/shoes/basicshoes.png
+    - assets/avatarcustomize/shoes/brownboots.png
+    - assets/avatarcustomize/shoes/mushroomshoes.png
+    - assets/avatarcustomize/shoes/shoeswithsocks.png
+    - assets/avatarcustomize/pants/blackpants.png
+    - assets/avatarcustomize/pants/jeans.png
+    - assets/avatarcustomize/pants/whiteskirt.png
+    - assets/avatarcustomize/shirts/blackcardigan.png
+    - assets/avatarcustomize/shirts/bluelongsleevesshirt.png
+    - assets/avatarcustomize/shirts/mushroomshirt.png
+    - assets/avatarcustomize/shirts/pinkstarshirt.png
+    - assets/avatarcustomize/shirts/redjacket.png
+    - assets/avatarcustomize/shirts/whitepolo.png
+    - assets/avatarcustomize/skin/skintone1.png
+    - assets/avatarcustomize/skin/skintone2.png
+    - assets/avatarcustomize/skin/skintone3.png
+    - assets/avatarcustomize/skin/skintone4.png
+    - assets/avatarcustomize/hair/femhair1.png
+    - assets/avatarcustomize/hair/femhair2.png
+    - assets/avatarcustomize/hair/femhair3.png
+    - assets/avatarcustomize/hair/maschair1.png
+    - assets/avatarcustomize/hair/maschair2.png
+    - assets/avatarcustomize/hair/maschair3.png
+    - assets/avatarcustomize/face/defaultface.png
+    - assets/avatarcustomize/face/seriousface.png
+    - assets/avatarcustomize/face/smileface.png
+    - assets/avatarcustomize/face/smugface.png
